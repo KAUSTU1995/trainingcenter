@@ -18,7 +18,7 @@ public class Constants {
     public static final String TRAININGCENTER_COURSES = "trainingcenter_courses";
     public static final String COURSES = "courses";
     public static final String INVALID_CENTER_CODE = "Invalid Center Code";
-    public static final String CENTER_CODE_MATCH = "^[a-zA-Z0-9]*{0,12}$";
+    public static final String CENTER_CODE_MATCH = "^[a-zA-Z0-9]{12}$";
     public static final String SIZE_SHOULD_BE_MAXIMUM_12 = "Size should be maximum 12";
     public static final String MAXIMUM_40_CHARACTERS_ALLOWED = "Maximum 40 characters allowed";
     public static final String TRAININGCENTERS = "trainingcenters";
